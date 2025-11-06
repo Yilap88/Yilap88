@@ -30,3 +30,7 @@ Recently, I have deepened my expertise in **Data Science** and **Machine Learnin
 - 🔭 I’m currently working on this portfolio! :)
 - 🌱 I’m currently studying statistics, economy, AI/ML, time series, among others subjects...
 - ⚡ A nice proverb: The frog at the bottom of the pond knows nothing about the vastness of the ocean.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
