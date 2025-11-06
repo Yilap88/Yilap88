@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there, my name is Yilmer 👋
 
 <!--
 **Yilap88/Yilap88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Petroleum Engineer | Specialist and Magister in Applied Economics | Data Scientist | AI Engineer | Passionate Learner
 
 Here are some ideas to get you started:
 
