@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
  
 👨‍💻 Petroleum Engineer | Specialist and Magister in Applied Economics | Data Scientist | AI/ML Engineer | Passionate Learner  
-🏠 Colombia - Latam  
+🏠 Colombia
 📫 e-mail: yilap@hotmail.com  
 🔨 linkedin: https://www.linkedin.com/in/yilmerpalacios/  
 
