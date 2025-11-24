@@ -12,7 +12,7 @@ I am a Petroleum Engineer with a Master's degree in Applied Economics and solid 
 Recently, I have deepened my expertise in **Data Science** and **Machine Learning**, focusing on predictive modeling, advanced analytics, and data-driven business strategies. I am passionate about applying **machine learning algorithms**, **statistical models**, and **big data techniques** to generate insights and create innovative solutions that deliver real value to organizations.
 
 - ⚡ I’m currently working on this portfolio! :)
-- 🌱 I’m currently studying statistics, economy, AI/ML, time series, among others subjects...
+- ❤️ I love engineering, statistics, economy, AI/ML, among others subjects...
 - 🔭 A nice proverb: The frog at the bottom of the pond knows nothing about the vastness of the ocean.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
